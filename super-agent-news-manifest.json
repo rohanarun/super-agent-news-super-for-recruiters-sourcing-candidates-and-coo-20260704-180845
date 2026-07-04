@@ -1,0 +1,25 @@
+{
+  "citations": [
+    "[bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)",
+    "[shrm.org](https://www.shrm.org/)",
+    "[forbes.com](https://www.forbes.com/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)"
+  ],
+  "design_plan": "rng=42; hero_lines=2.3; aida=attention->interest->desire->action pass; bento_density=grid-auto-flow:dense verified; labels_swept=yes; button_contrast=black/white pills ok",
+  "generated_at": "2026-07-04T18:08:51.776067+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page for recruiters who live inside LinkedIn, ATSs, calendars, email, and interview tools. It shows why agentic AI that can actually operate a computer \u2014 and reuse a computer\u2011use cache \u2014 is becoming essential, grounding the case in current reporting on agentic AI, workflow automation, and recruiting transformation. Super is positioned as the sharper alternative for repeated, real recruiting workflows compared with chat\u2011first assistants."
+}
